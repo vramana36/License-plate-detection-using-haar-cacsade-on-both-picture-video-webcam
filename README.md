@@ -3,3 +3,5 @@ Import all the files into your location. And use pip install for pytesseract,ope
 Then for detecting license plate in video use videoplt.py.
 For in image use img.py.
 For web cam feed use plate.py.
+Liscense is free to use but please dont forget to give credit to us for using our work.
+THANK YOU
