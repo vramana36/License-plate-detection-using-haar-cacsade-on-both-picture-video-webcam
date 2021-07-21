@@ -1,0 +1,4 @@
+1. Open CMD
+2. Navigate it to project folder
+3. run " python plate.py "
+4. press 'q' to save it or 'x' to exit
